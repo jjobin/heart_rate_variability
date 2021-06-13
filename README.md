@@ -1,4 +1,2 @@
-# test
-test
-just a test
 
+Function to 
